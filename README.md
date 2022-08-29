@@ -6,7 +6,7 @@ Project page with more information available in [CRCV webpage] (https://www.crcv
 
 Demo available [HERE](https://www.crcv.ucf.edu/wp-content/uploads/2018/11/LARNet_BMVC21_demo.mp4)
 
-![](https://github.com/aayushjr/larnet/blob/main/res/KTH.gif)
+![](https://github.com/aayushjr/larnet/blob/main/res/NTU.gif)
 
 ![](https://github.com/aayushjr/larnet/blob/main/res/KTH.gif)
 
